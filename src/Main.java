@@ -16,6 +16,7 @@ public class Main {
             }
             System.out.println(" ");
         }
+        // aşağıdaki kodlarla birlikte elmas yapımı sağlanmış oluyor.
        for(int k = (n - 1 ) ; k >= 0  ; k--) {
 
             for (int m = 1; m <= (n - k); m++) {
